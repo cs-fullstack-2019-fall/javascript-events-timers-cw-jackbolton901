@@ -5,3 +5,4 @@ function toldYou(ev){
 }
 box.addEventListener("click", toldYou);
 
+//  !! : prevent default behaviour 

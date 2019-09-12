@@ -5,3 +5,5 @@ function able(ev){
     area.removeAttribute("disabled")
 }
 button.addEventListener("click", able);
+
+// !! : prevent default behaviour 
